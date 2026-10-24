@@ -1,0 +1,15 @@
+# raw downloads (fetched by scripts/01_download.py)
+data_raw/
+*.zip
+*.xlsx
+*.part
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# OS and Office
+.DS_Store
+*.docx
+~$*

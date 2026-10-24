@@ -1,0 +1,15 @@
+region,variable,class,n_tracts,n_fdr_q_lt_0.05
+Houston (Harris Co.),log_ei_all,hot spot,263,224.0
+Houston (Harris Co.),log_ei_all,cold spot,221,182.0
+Houston (Harris Co.),log_ei_all,not significant,626,0.0
+Houston (Harris Co.),RPL_THEMES,hot spot,398,352.0
+Houston (Harris Co.),RPL_THEMES,cold spot,306,270.0
+Houston (Harris Co.),RPL_THEMES,not significant,406,0.0
+Houston (Harris Co.),both,hot spot for both,170,
+Louisiana corridor,log_ei_all,hot spot,126,88.0
+Louisiana corridor,log_ei_all,cold spot,94,81.0
+Louisiana corridor,log_ei_all,not significant,267,0.0
+Louisiana corridor,RPL_THEMES,hot spot,90,62.0
+Louisiana corridor,RPL_THEMES,cold spot,76,55.0
+Louisiana corridor,RPL_THEMES,not significant,321,0.0
+Louisiana corridor,both,hot spot for both,28,

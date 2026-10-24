@@ -1,0 +1,16 @@
+file,url,bytes,accessed
+tri/tri_2022_TX.csv,https://data.epa.gov/efservice/downloads/tri/mv_tri_basic_download/2022_TX/csv,7506889,2026-10-23
+tri/tri_2022_LA.csv,https://data.epa.gov/efservice/downloads/tri/mv_tri_basic_download/2022_LA/csv,2374099,2026-10-23
+aqs/annual_conc_by_monitor_2022.zip,https://aqs.epa.gov/aqsweb/airdata/annual_conc_by_monitor_2022.zip,4263402,2026-10-23
+tri/tri_2023_TX.csv,https://data.epa.gov/efservice/downloads/tri/mv_tri_basic_download/2023_TX/csv,7483486,2026-10-23
+tri/tri_2023_LA.csv,https://data.epa.gov/efservice/downloads/tri/mv_tri_basic_download/2023_LA/csv,2383100,2026-10-23
+aqs/annual_conc_by_monitor_2023.zip,https://aqs.epa.gov/aqsweb/airdata/annual_conc_by_monitor_2023.zip,4347093,2026-10-23
+tri/tri_2024_TX.csv,https://data.epa.gov/efservice/downloads/tri/mv_tri_basic_download/2024_TX/csv,7474672,2026-10-23
+tri/tri_2024_LA.csv,https://data.epa.gov/efservice/downloads/tri/mv_tri_basic_download/2024_LA/csv,2305846,2026-10-23
+aqs/annual_conc_by_monitor_2024.zip,https://aqs.epa.gov/aqsweb/airdata/annual_conc_by_monitor_2024.zip,3979542,2026-10-23
+tiger/tl_2022_48_tract.zip,https://www2.census.gov/geo/tiger/TIGER2022/TRACT/tl_2022_48_tract.zip,32645247,2026-10-23
+tiger/tl_2022_22_tract.zip,https://www2.census.gov/geo/tiger/TIGER2022/TRACT/tl_2022_22_tract.zip,8346399,2026-10-23
+svi/SVI_2022_Texas.csv,https://svi.cdc.gov/Documents/Data/2022/csv/states/Texas.csv,4982505,2026-10-23
+svi/SVI_2022_Louisiana.csv,https://svi.cdc.gov/Documents/Data/2022/csv/states/Louisiana.csv,1009518,2026-10-23
+airtox/Region6a_CancerRisk_by_block_srcgrp.xlsx,https://gaftp.epa.gov/rtrmodeling_public/AirToxScreen/2020/Cancer/BySource/Region6a_CancerRisk_by_block_srcgrp.xlsx,124864737,2026-10-23
+airtox/Region6b_CancerRisk_by_block_srcgrp.xlsx,https://gaftp.epa.gov/rtrmodeling_public/AirToxScreen/2020/Cancer/BySource/Region6b_CancerRisk_by_block_srcgrp.xlsx,125183642,2026-10-23

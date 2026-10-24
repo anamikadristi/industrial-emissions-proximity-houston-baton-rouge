@@ -1,0 +1,4670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Document id="tri_facilities">
+      <name>tri_facilities</name>
+      <Placemark id="tri_facilities.1">
+        <name>US ZINC- DUST</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3,122 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.312463,29.746406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.2">
+        <name>DIXIE ELECTRO PLATING CO.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 6 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.339606,29.756466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.3">
+        <name>DFA DAIRY BRANDS FLUID LLC DBA OAK FARMS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 10 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.34701,29.739666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.4">
+        <name>DEE FOUNDRIES INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 82 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.362982,29.782973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.5">
+        <name>SOUTHWESTERN PLATING CO. INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 30 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.354475,29.788001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.6">
+        <name>EVERZINC USA HOUSTON PLANT - METAL</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 9,195 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.312948,29.747738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.7">
+        <name>H.B. FULLER CONSTRUCTION PRODUCTS INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 22,467 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.310406,29.751744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.8">
+        <name>ELECTRO-COATINGS OF TEXAS INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 750 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.318245,29.746753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.9">
+        <name>VALERO REFINING - TEXAS L.P. HOUSTON REFINERY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 129,375 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.253827,29.718686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.10">
+        <name>ECO SERVICES OPERATIONS CORP.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 43,668 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.273456,29.718277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.11">
+        <name>SOUTHWEST SHIPYARD L.P. - BRADY ISLAND WEST</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3,514 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.278375,29.726105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.12">
+        <name>HUNTSMAN INTERNATIONAL LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4,220 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.269292,29.72165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.13">
+        <name>METALPLATE GALVANIZING LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 547 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.243935,29.801544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.14">
+        <name>METALPLATE GALVANIZING LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 293 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.243694,29.801545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.15">
+        <name>PVS DX INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 431 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.154997,29.760106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.16">
+        <name>MONUMENT CHEMICAL HOUSTON LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 13,682 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.104616,29.755756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.17">
+        <name>SASOL CHEMICALS (USA) LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 18,422 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.175436,29.762974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.18">
+        <name>AFGLOBAL CORP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 99 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.186228,29.753563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.19">
+        <name>ARKEMA INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4,837 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.172912,29.761386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.20">
+        <name>PRECOAT METALS DIV SEQUA CORP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 25,385 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.113704,29.75354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.21">
+        <name>EXCALIBAR MINERALS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.14167,29.763523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.22">
+        <name>HOUSTON REFINING LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 236,842 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.231877,29.709382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.23">
+        <name>INVISTA HOUSTON</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 95,785 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.249579,29.706104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.24">
+        <name>TPC GROUP LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 64,461 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.259383,29.696784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.25">
+        <name>ADVANCED CONTAINMENT SYSTEM INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 5,333 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.234183,29.674346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.26">
+        <name>INNOVEX LUCERNE</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 133 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.297347,29.876443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.27">
+        <name>OIL STATES INDUSTRIES INC. - MMC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 45 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.220463,29.77119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.28">
+        <name>BRENNTAG SOUTHWEST INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3,083 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.176124,29.763448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.29">
+        <name>JOHN W STONE OIL DISTRIBUTOR</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 113,634 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.142058,29.75416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.30">
+        <name>VIBRANTZ MINERALS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.18932,29.756399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.31">
+        <name>PETROMAX REFINING CO LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,994 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.123881,29.751943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.32">
+        <name>VULCAN MATERIALS LOCKWOOD</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.322028,29.753469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.33">
+        <name>VALERO REFINING - TEXAS L.P. HOUSTON REFINERY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 14,280 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.253827,29.718686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.34">
+        <name>SCHUMACHER CO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 6 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.316572,29.733064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.35">
+        <name>LONE STAR HEAT TREATING CORP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 150 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.304731,29.796696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.36">
+        <name><![CDATA[W. R. GRACE & CO CONN]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.305776,29.80572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.37">
+        <name>NELCO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.30173,29.803083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.38">
+        <name>MAUSER CORP.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 14,474 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.301691,29.796927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.39">
+        <name>BLENTECH CORP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 175 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.279329,29.765137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.40">
+        <name>ARDAGH GLASS PACKAGING INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 76 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.255881,29.762879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.41">
+        <name>ANHEUSER-BUSCH LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 36,619 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.272846,29.773488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.42">
+        <name>QUALITY ELECTRIC STEEL CASTINGS LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 18 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.282928,29.784071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.43">
+        <name><![CDATA[OWENS CORNING ROOFING & ASPHALT LLS HOUSTON]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 179 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.27951,29.771493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.44">
+        <name>HEIDELBERG MATERIALS - HARDY RD RMC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.355225,29.829214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.45">
+        <name>FULTON PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.371649,29.821467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.46">
+        <name>HENRY CO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.299395,29.765395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.47">
+        <name>AJ HURT JR INC DBA THE HURT CO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 24 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.376021,29.693865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.48">
+        <name>NVENT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,791 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.283112,29.78367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.49">
+        <name>VIBRANTZ ENERGY LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.288047,29.788329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.50">
+        <name>SUN COAST RESOURCES LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 390 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.301719,29.800333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.51">
+        <name>TYSON REFRIGERATED PROCESSED MEATS INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4,153 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.276037,29.785724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.52">
+        <name>VALERO HOUSTON ASPHALT TERMINAL</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 39 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.255012,29.731915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.53">
+        <name>HYDRIL USA DISTRIBUTION LLC - JFK</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 195 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.335866,29.938759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.54">
+        <name>ENDURO COMPOSITES INC.-HOUSTON CENTRAL GREEN FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 16,881 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.376142,29.961012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.55">
+        <name>UNIVAR SOLUTIONS USA</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 6,870 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.206433,29.632119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.56">
+        <name><![CDATA[LINDE GAS & EQUIPMENT]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,165 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.408785,29.912339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.57">
+        <name>EXXON MOBIL CORP NORTH HOUSTON TERMINAL</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,020 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.412404,29.928734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.58">
+        <name>ROYAL BATHS MANUFACTURING CO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 79,065 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.363875,29.929055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.59">
+        <name>ROYAL BATHS MANUFACTURING CO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 10,448 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.370243,29.929449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.60">
+        <name>SCHLUMBERGER TECHNOLOGY CORP RESLINK</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 44 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.371163,29.929559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.61">
+        <name>HEIDELBERG MATERIALS - GENOA RMC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.199909,29.625632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.62">
+        <name>HEIDELBERG MATERIALS - HARWIN RMC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.530748,29.717899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.63">
+        <name>FLOWSERVE</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.377404,29.923534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.64">
+        <name>FUTURE PIPE INDUSTRIES</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4,055 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.466553,29.904757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.65">
+        <name>ELLINGTON PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.190318,29.614619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.66">
+        <name>APPLETON GROUP LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 500 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.355474,29.912146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.67">
+        <name><![CDATA[PRECISION SPRAY & COATINGS LLC.]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 178 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.385366,29.953993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.68">
+        <name>SMI MANUFACTURING-HARDY ROAD FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.373866,29.908514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.69">
+        <name>TEXAS HONING INC. - NORTH FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 48 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.451418,29.934722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.70">
+        <name>VIBRANTZ MINERALS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 21 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.322211,29.921864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.71">
+        <name>MADDEN GALVANIZING LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 88 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.519407,29.844144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.72">
+        <name>AKER BIOMARINE MANUFACTURING</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 250 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.529684,29.835993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.73">
+        <name>AXALTA COATING SYSTEMS USA LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 26 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.534843,29.844564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.74">
+        <name>SIKA MBCC US LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3,783 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.589137,29.881276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.75">
+        <name>DMV USA INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4,878 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.585069,29.867071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.76">
+        <name>UNIVAR SOLUTIONS USA</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 974 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.577758,29.880199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.77">
+        <name><![CDATA[FORTERRA PIPE & PRECAST - JERSEY VILLAGE]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.577518,29.880204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.78">
+        <name>LARK HEAT TREATING INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 439 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.605883,29.872543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.79">
+        <name>UNITED GALVANIZING INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 194 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.581537,29.856487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.80">
+        <name>NOV RIG SYSTEMS FM 529</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 418 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.588956,29.880017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.81">
+        <name>QUIETFLEX MANUFACTURING CO LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 11,790 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.569942,29.838933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.82">
+        <name>INSTEEL WIRE PRODUCTS CO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.57312,29.850344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.83">
+        <name>NOV RIG SYSTEMS WEST LITTLE YORK</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 624 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.605125,29.863144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.84">
+        <name>MITSUBISHI LOGISNEXT AMERICAS (HOUSTON) INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.564111,29.809216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.85">
+        <name>TENARIS COILED TUBES LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 7 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.187574,29.851377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.86">
+        <name>ELLWOOD TEXAS FORGE</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 86 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.401973,29.631594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.87">
+        <name>COSACO LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 7,367 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.415439,29.623859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.88">
+        <name>THORPE PLANT SERVICES</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 10,560 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.422943,29.587064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.89">
+        <name>SYNTECH CHEMICALS INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 907 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.404785,29.589129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.90">
+        <name>ECONOMY MUD PRODUCTS CO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 30 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.414301,29.606506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.91">
+        <name>OLDCASTLE PRECAST INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.317894,29.612018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.92">
+        <name>NOV QUALITY TUBING</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 191,369 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.128016,29.863593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.93">
+        <name>BLP HOLDINGS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 331 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.5406,29.875315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.94">
+        <name>COOPER CROUSE-HINDS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.36528,29.597598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.95">
+        <name>NATURAL GAS SOLUTIONS N.A.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.570698,29.876763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.96">
+        <name>HOLMES RD PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.44239,29.653748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.97">
+        <name>HEIDELBERG MATERIALS - JERSEY VILLAGE RMC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.588878,29.880019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.98">
+        <name>JERSEY VILLAGE PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.589358,29.887979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.99">
+        <name>ALLIED PLANT 8 - HOLMES RD</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.438701,29.655103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.100">
+        <name><![CDATA[ALLOY & STAINLESS FASTENERS]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.583446,29.883974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.101">
+        <name>HEIDELBERG MATERIALS - PEARLAND RMC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.358327,29.607885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.102">
+        <name><![CDATA[NOV RIG SYSTEMS RUBBER PLANT & CONTROLS BUILDING]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 8 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.581797,29.867117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.103">
+        <name>ALLEIMA USA LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 10 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.527213,29.865558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.104">
+        <name>STAUFFER PIPE SERVICES</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 16 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.161859,29.883494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.105">
+        <name>TECHNIPFMC GREMP CAMPUS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 20 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.211258,29.918656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.106">
+        <name>TEXAS STEEL PROCESSING</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 28 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.537342,29.846868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.107">
+        <name>OFFSHORE OPERATIONS HOUSTON</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.247336,29.891682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.108">
+        <name>POLYNT COMPOSITES USA INC. - HOUSTON</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 14,951 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.392171,29.671819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.109">
+        <name>NOV COATING HOUSTON</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 6,969 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.386301,29.673705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.110">
+        <name>EXXON MOBIL CORP SOUTH HOUSTON TERMINAL</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 283 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.396901,29.66901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.111">
+        <name>AMACS PROCESS TOWER INTERNALS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 82 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.42617,29.602148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.112">
+        <name>NOURYON SURFACE CHEMISTRY LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,986 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.428817,29.590795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.113">
+        <name>BASF HOUSTON POLYURETHANE</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 31 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.410295,29.670861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.114">
+        <name>KIK (HOUSTON) INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.385247,29.692887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.115">
+        <name>ALLCHEM SERVICES INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 8 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.394512,29.675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.116">
+        <name><![CDATA[CB&I STORAGE TANK SOLUTIONS LLC]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 202 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.524866,29.910971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.117">
+        <name>AZZ GALVANIZING SERVICES - HOUSTON WEST</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 310 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.525182,29.911738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.118">
+        <name>CERDA INDUSTRIES INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3,718 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.309059,29.644363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.119">
+        <name>GREENSPOINT PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.389948,29.961041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.120">
+        <name>METAL COATINGS CORP.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 5,294 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.514093,29.725592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.121">
+        <name><![CDATA[O'NEAL MANUFACTURING SERVICES]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 415 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.382596,29.911528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.122">
+        <name>INTERCOASTAL PAINT CO INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 151 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.377808,29.921014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.123">
+        <name><![CDATA[NOV MONOFLO BREEN & BREEN ISE]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 26 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.509357,29.89837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.124">
+        <name><![CDATA[SEC ENERGY PRODUCTS & SERVICES L.P.]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 10 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.525223,29.918509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.125">
+        <name><![CDATA[HOLCIM SOLUTIONS & PRODUCTS US LLC]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 168 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.524924,29.956106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.126">
+        <name>HOBAS PIPE USA INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 42,330 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.387689,29.996459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.127">
+        <name>KING FABRICATION LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,239 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.398214,29.992332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.128">
+        <name>POWELL ELECTRICAL SYSTEMS INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 189 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.25367,29.644094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.129">
+        <name>BEST BLOCK EAST HOUSTON PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.245589,29.817414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.130">
+        <name>HENKEL GLOBAL SUPPLY CHAIN</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3,127 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.414317,29.989943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.131">
+        <name>ALLIED POWER GROUP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 250 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.570808,29.960486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.132">
+        <name>APPLIED CRYO TECHNOLOGIES</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 5 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.295616,29.620754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.133">
+        <name>HOUSTON RETAIL SUPPORT CENTER</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 754 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.539818,29.832439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.134">
+        <name>PILOT INDUSTRIES OF TEXAS INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,729 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.495894,29.902449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.135">
+        <name><![CDATA[H & M PLATING CO INC.]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 27 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.309549,29.677938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.136">
+        <name>S + S INDUSTRIES</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3,359 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.312715,29.684158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.137">
+        <name>SET ENVIRONMENTAL INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.318119,29.6819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.138">
+        <name>MYKAWA PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.320557,29.67981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.139">
+        <name>NOV RIG SYSTEMS SERVICE CENTER BAMMEL</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,273 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.501029,29.937569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.140">
+        <name>RENWICK PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.48469,29.722236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.141">
+        <name>FORGED PRODUCTS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 11 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.483109,29.861801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.142">
+        <name><![CDATA[AFGLOBAL MAASS RINGS & FORGE LUMBERDALE]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 12 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.484275,29.858588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.143">
+        <name>EASTEX FOREST PRODUCTS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.3097,29.885098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.144">
+        <name>WYMAN-GORDON FORGINGS LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 97 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.646809,29.929288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.145">
+        <name>NUCOR WAREHOUSE SYSTEMS - HOUSTON</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 19 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.488655,29.861098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.146">
+        <name>NOV HOUSTON CREEKMONT FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 19 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.45823,29.842285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.147">
+        <name>OLDCASTLE INFRASTRUCTURE - NORTH HOUSTON</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 13 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.500101,29.862399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.148">
+        <name>WEATHERFORD WELL SCREEN COMPANY-11939 ALDINE WESTFIELD RD</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 19 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.355074,29.886221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.149">
+        <name>ALLIED AVIATION FUELING CO OF HOUSTON INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 22 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.364554,29.985018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.150">
+        <name>SMITH INTERNATIONAL INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.387132,29.961094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.151">
+        <name>MODERN WELDING CO OF TX INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 8,200 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.313471,29.77512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.152">
+        <name>SOUTHWEST GALVANIZING INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,630 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.278404,29.774881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.153">
+        <name>AZZ GALVANIZING SERVICES-HOUSTON</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 288 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.211586,29.833171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.154">
+        <name><![CDATA[THE GOODYEAR TIRE & RUBBER CO]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 206,637 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.257529,29.70512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.155">
+        <name>SOUTHWEST SHIPYARD L.P. - BRADY ISLAND</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4,006 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.27572,29.722915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.156">
+        <name>CUSTOM BLAST SERVICES INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4,984 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.155377,29.630785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.157">
+        <name>INTERNATIONAL PAINT LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3,571 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.473449,29.854031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.158">
+        <name>MERCHANT METALS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,330 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.319033,29.866712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.159">
+        <name>ALLIED PLANT 10 - NEW CANEY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.217235,30.15166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.160">
+        <name>HEIDELBERG MATERIALS - SPRING RMC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.426172,30.08314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.161">
+        <name>TOMBALL PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.621236,30.063255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.162">
+        <name>BAKER HUGHES - HUGHES CHRISTENSEN</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 100 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.465899,30.175532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.163">
+        <name>SIGMA LIFE SCIENCES</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,930 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.461128,30.171927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.164">
+        <name><![CDATA[HALLIBURTON DRILL BITS & SERVICES]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 10 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.44173,30.215198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.165">
+        <name>HOLCIM SOLUTIONS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 108 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.452857,30.083032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.166">
+        <name>TUF-CRETE PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.449548,30.210782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.167">
+        <name>HEIDELBERG MATERIALS - HUMBLE RMC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.279385,29.94437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.168">
+        <name>SCHUFF STEEL GULF COAST</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 22 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.287551,29.932583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.169">
+        <name>SUMMIT REFRIGERANTS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,110 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.261646,29.938784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.170">
+        <name>CRAIG BAKER MARBLE CO. INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,411 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.703812,29.759351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.171">
+        <name>ALLEYTON CYPRESS PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.654465,29.998043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.172">
+        <name>HEIDELBERG MATERIALS - HOCKLEY RMC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.815167,30.01381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.173">
+        <name>HM SOUTH TEXAS CONCRETE LLC - KATY RMC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.795133,29.801832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.174">
+        <name><![CDATA[R&B READY MIX]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.832446,30.186625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.175">
+        <name>HOCKLEY PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.815159,30.0116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.176">
+        <name>ALLIED PLANT 11 - EAST KATY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.740227,29.879563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.177">
+        <name>MADDEN GALVANIZING LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 21 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.857109,30.025347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.178">
+        <name>CINCO PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.72573,29.704103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.179">
+        <name>CROWN BEVERAGE PACKAGING</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 92,215 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.610924,29.637333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.180">
+        <name>HEIDELBERG MATERIALS - GAINES RD RMC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.656983,29.672865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.181">
+        <name>SECE SCHLUMBERGER TECHNOLOGY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.607893,29.644322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.182">
+        <name>CHAMPIONX-SUGAR LAND</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 18,686 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.640476,29.618083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.183">
+        <name>DAIKIN COMFORT TECHNOLOGIES MANUFACTURING L.P.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 330 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.857508,30.054904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.184">
+        <name>ALEGACY EQUIPMENT LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 87 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.959103,30.069429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.185">
+        <name>NCFI POLYURETHANES</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,154 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.515521,29.612551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.186">
+        <name>K-T GALVANIZING CO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 167 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.804709,29.788038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.187">
+        <name>KATY BAGGING FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.811071,29.787464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.188">
+        <name>DYNA DRILL TECHNOLOGIES LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 8 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.783828,29.792331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.189">
+        <name>KATY PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.807626,29.784756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.190">
+        <name>IPC BUILDING PRODUCTS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.617081,29.668151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.191">
+        <name>ALLIED PLANT 6 - WEST KATY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.862602,29.874478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.192">
+        <name>PAVESTONE - KATY TX PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.889731,29.782849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.193">
+        <name>OXY VINYLS LP PASADENA PVC PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 52,153 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.147313,29.712116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.194">
+        <name>INEOS PHENOL</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 62,277 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.159216,29.712556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.195">
+        <name>PCI NITROGEN LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 97,285 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.191182,29.740503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.196">
+        <name>PHILLIPS 66 PASADENA TERMINAL</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 12,806 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.184194,29.712909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.197">
+        <name>BASF CORP PASADENA PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 15,617 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.152485,29.722383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.198">
+        <name>ETHYL CORP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 504 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.171743,29.740883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.199">
+        <name>KETJEN PASADENA PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 101,685 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.172,29.742752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.200">
+        <name>PURITY ISOBUTYLENE PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 92 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.1475,29.665746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.201">
+        <name>MACDERMID</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 523 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.21684,29.715781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.202">
+        <name>SEKISUI SPECIALTY CHEMICALS AMERICA LLC. - PASADENA PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 20,266 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.194206,29.713073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.203">
+        <name>PASADENA REFINING SYSTEM INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 42,781 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.210461,29.718545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.204">
+        <name>SCHWAN FOOD CO - PASADENA PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 5,000 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.228004,29.691418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.205">
+        <name>CHEVRON PHILLIPS CHEMICAL CO - PASADENA PLASTICS COMPLEX</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 91,524 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.175626,29.736643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.206">
+        <name>GLOBAL PASADENA TERMINAL</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,362 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.225428,29.712527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.207">
+        <name>AIR PRODUCTS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 12,469 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.225596,29.710714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.208">
+        <name>AIR LIQUIDE LARGE INDUSTRIES US LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 6,523 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.044118,29.621419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.209">
+        <name>CENTAURI TECHNOLOGIES LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,150 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.086564,29.638283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.210">
+        <name>E R CARPENTER LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 8,345 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.047779,29.61992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.211">
+        <name>GRACE -PASADENA CATALYST SITE</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 59,598 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.053675,29.61473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.212">
+        <name>MITSUBISHI CHEMICAL AMERICA INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 12,565 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.061566,29.619184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.213">
+        <name>DUPONT BAYPORT PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 38 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.061318,29.618732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.214">
+        <name>ARKEMA INC CLEAR LAKE</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 46,179 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.065922,29.621342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.215">
+        <name>DIXIE CHEMICAL CO INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 34,051 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.051085,29.610126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.216">
+        <name>EVONIK ACTIVE OXYGENS LLC BAYPORT PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 339 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.045524,29.628162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.217">
+        <name>BAYPORT POLYMERS LLC - HDPE PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 147,353 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.015199,29.603894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.218">
+        <name><![CDATA[THE GOODYEAR TIRE & RUBBER CO BAYPORT CHEMICAL PLANT]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 21,360 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.046906,29.648343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.219">
+        <name>CELANESE LTD CLEAR LAKE PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 116,889 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.065922,29.621342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.220">
+        <name>HALDOR TOPSOE INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 7,542 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.0583,29.612959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.221">
+        <name>INEOS STYROLUTION AMERICA LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 20,331 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.015079,29.603897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.222">
+        <name>KANEKA NORTH AMERICA LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 39,774 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.087045,29.621189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.223">
+        <name>NOURYON FUNCTIONAL CHEMICALS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 588 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.065358,29.642005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.224">
+        <name>KETJEN LLC - BAYPORT PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 54,269 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.065368,29.643612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.225">
+        <name>LUBRIZOL CORP BAYPORT FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 40,163 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.047005,29.639117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.226">
+        <name>SOLENIS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 367 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.061142,29.618144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.227">
+        <name>AMERICAN ACRYL LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 27,689 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.0216,29.603443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.228">
+        <name>NIPPON CHEMICAL TEXAS INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 5,773 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.053276,29.608884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.229">
+        <name>NISSAN CHEMICAL AMERICA PASADENA PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,193 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.046932,29.636071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.230">
+        <name>MONUMENT CHEMICAL BAYPORT LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 359 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.057174,29.607256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.231">
+        <name>BAKER PETROLITE BAYPORT FACILI TY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 489 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.065388,29.646659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.232">
+        <name>INEOS OXIDE BAYPORT EO PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 63,677 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.086069,29.630999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.233">
+        <name>TRECORA WAX LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 961 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.046906,29.638052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.234">
+        <name>LYONDELL CHEMICAL CO BAYPORT FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 313,191 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.051732,29.620008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.235">
+        <name>KURARAY AMERICA INC SEPTON BU</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 10,811 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.040149,29.619588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.236">
+        <name>SOUTHERN IONICS INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3,462 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.06544,29.639129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.237">
+        <name>ARKEMA INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 78 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.0216,29.603443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.238">
+        <name>KURARAY AMERICA-EVAL BU</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 53,124 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.044315,29.622396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.239">
+        <name>MULTI-CHEM GROUP BAYPORT TX FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 5,734 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.043816,29.61631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.240">
+        <name>OXITENO USA LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 306 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.060349,29.606233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.241">
+        <name>BAYPORT PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.050311,29.613322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.242">
+        <name>SEATEX - PASADENA</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 624 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.061429,29.605466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.243">
+        <name>CLEAR LAKE PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 9,123 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.065922,29.621342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.244">
+        <name>CLARIANT CORP CLEAR LAKE PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 769 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.065922,29.621342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.245">
+        <name>AFTON CHEMICAL CORP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 6,980 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.171743,29.740883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.246">
+        <name>KURARAY AMERICA BAYPORT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 18,172 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.046745,29.642606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.247">
+        <name>LINDE HYCO CLEAR LAKE PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 663 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.062852,29.621226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.248">
+        <name>UMICORE CATALYST USA</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 6,544 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.05932,29.61482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.249">
+        <name>PASADENA FABRICATION FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 76 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.199662,29.708576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.250">
+        <name>PASADENA PERFORMANCE PRODUCTS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 14,183 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.171829,29.723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.251">
+        <name>EURECAT US</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 6,923 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.065378,29.645136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.252">
+        <name>AIR LIQUIDE LARGE INDUSTRIES US LP - SMR UNIT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 18,384 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.044662,29.623404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.253">
+        <name>SOLVAY USA LLC PASADENA TX PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,124 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.086069,29.630999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.254">
+        <name>EVONIK CORP - PASADENA PMD PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,571 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.194206,29.713073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.255">
+        <name>AIRGAS ALVIN PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 5,612 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.266291,29.501565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.256">
+        <name>CHEMICALS INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 42 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.916786,29.859059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.257">
+        <name>DUNA USA INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3,404 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.912759,29.778477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.258">
+        <name>MONUMENT CHEMICAL BAYTOWN LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,242 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.025573,29.769415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.259">
+        <name>LSB CHEMICAL L.L.C.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 7,425 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.916524,29.723283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.260">
+        <name>LANXESS CORP-BAYTOWN</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 417 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.916133,29.723283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.261">
+        <name>COVESTRO LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 41,236 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.916133,29.723283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.262">
+        <name>MONT BELVIEU EAST PHT FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,097 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.896672,29.830062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.263">
+        <name>MONT BELVIEU SOUTH RAIL TERMINAL</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4,908 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.895382,29.834766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.264">
+        <name>ECO SERVICES OPERATIONS CORP.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 9,595 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.002803,29.748738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.265">
+        <name>SI GROUP BAYTOWN</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 6,125 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.01617,29.769706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.266">
+        <name>RAVEN PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 16,067 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.919785,29.813278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.267">
+        <name>LCY ELASTOMERS LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 18,884 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.017772,29.773993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.268">
+        <name>CHEVRON PHILLIPS CHEMICAL CO LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,019,543 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.899692,29.820929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.269">
+        <name><![CDATA[EXXONMOBIL REFINING & SUPPLY BAYTOWN REFINERY (PART)]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,585,627 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.992882,29.755148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.270">
+        <name>EXXONMOBIL CHEMICAL CO BAYTOWN OLEFINS PLANT (PART)</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 537,890 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.006406,29.763016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.271">
+        <name>EXXONMOBIL BAYTOWN CHEMICAL PLANT (PART)</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 946,788 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.026899,29.742341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.272">
+        <name>BAYTOWN PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.905992,29.797779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.273">
+        <name>DELTA BAYTOWN</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 56 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.887426,29.771496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.274">
+        <name>HARCROS CHEMICALS HOUSTON</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 64 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.892522,29.727128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.275">
+        <name><![CDATA[MB FRAC IV & V]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,004 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.931641,29.852106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.276">
+        <name><![CDATA[MB FRAC VI&VIII]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3,796 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.930866,29.852235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.277">
+        <name>MB FRAC VII</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,716 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.931641,29.852106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.278">
+        <name><![CDATA[MB FRAC I II & III]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 18,779 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.912777,29.855148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.279">
+        <name>MB FRAC VII</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 375 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.930502,29.852295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.280">
+        <name>HEXION INC - BAYTOWN PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 7,632 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.91847,29.723299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.281">
+        <name>ONEOK HYDROCARBON L.P. - MONT BELVIEU NGL FRACTIONATION (MB</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 8,576 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.892898,29.860919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.282">
+        <name>AIRGAS SPECIALTY PRODUCTS - BAYTOWN TX</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 184 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.921497,29.741861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.283">
+        <name>AIR PRODUCTS BAYTOWN 3 FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 24,144 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.911029,29.747602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.284">
+        <name>SYNTECH CEDAR PORT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 708 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.91183,29.75668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.285">
+        <name>TRIFECTA TRADING</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,583 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.913512,29.683256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.286">
+        <name>K-SOLV CHEMICALS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,255 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.10352,29.767866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.287">
+        <name>LYONDELL CHEMICAL CO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,056,202 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.126326,29.816178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.288">
+        <name>ALTIVIA CROSBY FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,511 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.053054,29.921222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.289">
+        <name>OXY VINYLS LP DEER PARK CAUSTIC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 40,314 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.11289,29.724567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.290">
+        <name>OXY VINYLS LP DEER PARK-VCM PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 25,021 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.119288,29.710922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.291">
+        <name>DELTA DEER PARK</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 99 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.113178,29.714503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.292">
+        <name>DEER PARK REFINING LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 295,062 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.119288,29.710922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.293">
+        <name>TM DEER PARK SERVICES LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.089918,29.734186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.294">
+        <name><![CDATA[TOTALENERGIES PETROCHEMICALS & REFINING USA INC]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 106,232 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.089721,29.729005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.295">
+        <name>LUBRIZOL CORP DEER PARK FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 25,792 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.113248,29.71142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.296">
+        <name><![CDATA[SCHWAN'S GLOBAL SUPPLY CHAIN - DEER PARK TX]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,483 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.13524,29.706522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.297">
+        <name>VOPAK LOGISTICS SERVICES USA INC DEER PARK</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 15,359 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.090029,29.743673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.298">
+        <name>SOLVAY CHEMICALS INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 20 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.089575,29.715365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.299">
+        <name>INEOS OLIGOMERS USA LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 7,461 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.06686,29.705265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.300">
+        <name>DEER PARK_TX (ROH)</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 180,661 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.10107,29.731509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.301">
+        <name>EVONIK OIL ADDITIVES USA INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,153 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.103509,29.731432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.302">
+        <name>WESTLAKE EPOXY INC.- DEER PARK SITE</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 47,302 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.119288,29.710922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.303">
+        <name>CLEAN HARBORS DEER PARK LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 8,245 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.08988,29.73122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.304">
+        <name>SHELL CHEMICAL LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 519,914 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.119288,29.710922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.305">
+        <name>INEOS BATTLEGROUND MANUFACTURING COMPLEX</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 232,147 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.089584,29.716068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.306">
+        <name>NOURYON FUNCTIONAL CHEMICALS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 16,637 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.090007,29.711931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.307">
+        <name>VALVOLINE GLOBAL - DEER PARK TX</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.092231,29.733258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.308">
+        <name>GEO SPECIALTY CHEMICALS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 7,970 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.093677,29.702197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.309">
+        <name>HARTREE REFINERY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 8,543 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.101292,29.76336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.310">
+        <name>GLOBAL TUBING LLC COILED TUBING MANUFACTURING FACILITY IN DA</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 13 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.90438,30.026434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.311">
+        <name>TAPCOENPRO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 149 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.111599,29.778179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.312">
+        <name>NALCO FRESNO FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,707 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.447595,29.541735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.313">
+        <name>THIRD COAST PACKAGING INC. FRIENDSWOOD</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 12 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.234497,29.510244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.314">
+        <name>GALENA PARK TERMINAL CHEVRON USA INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 3,524 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.209992,29.741575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.315">
+        <name>TARGA DOWNSTREAM LLC - GALENA PARK MARINE TERMINAL</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 42,577 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.209998,29.741456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.316">
+        <name>TEXMARK CHEMICALS INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4,324 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.227592,29.732408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.317">
+        <name>USGYPSUM CO GALENA PARK</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 50 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.244313,29.723247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.318">
+        <name>WORLD ENERGY BIOX BIOFUELS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 5,305 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.222932,29.732473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.319">
+        <name><![CDATA[KINDER MORGAN CRUDE & CONDENSATE LLC]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 12,736 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.220568,29.732654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.320">
+        <name>ZXP TECHNOLOGIES LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 10 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.05331,29.818839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.321">
+        <name>SOUTHWEST SHIPYARD L.P.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 10,075 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.066249,29.791535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.322">
+        <name><![CDATA[LAPORTE RAIL & TERMINAL LLC]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 705 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.033396,29.69914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.323">
+        <name>OXY VINYLS LP LA PORTE VCM PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 73,752 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.077735,29.72534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.324">
+        <name>MITSUBISHI CHEMICAL LA PORTE</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 48,487 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.043351,29.702541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.325">
+        <name>ALTIVIA SPECIALTY CHEMICALS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 7,590 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.037335,29.654762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.326">
+        <name>LYONDELLBASELL ACETYLS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 161,083 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.066868,29.705717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.327">
+        <name>EQUISTAR CHEMICALS LP</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 135,870 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.067153,29.714245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.328">
+        <name>BAYPORT_TX</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 8,644 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.046648,29.647757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.329">
+        <name>BRASKEM AMERICA INC-LAPORTE SITE</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 146,773 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.082141,29.701641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.330">
+        <name>GREIF PACKAGING LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,850 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.06049,29.702199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.331">
+        <name>GULBRANDSEN INC.</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 25 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.081002,29.701917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.332">
+        <name>METTON AMERICA INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4,339 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.085301,29.726274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.333">
+        <name>LA PORTE_THE DOW CHEMICAL CO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,735 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.090919,29.709663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.334">
+        <name>JOHNS MANVILLE</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,257 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.090919,29.709663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.335">
+        <name>AMPAC FINE CHEMICALS TEXAS LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,550 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.035858,29.655006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.336">
+        <name>THE CHEMOURS CO</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 22,194 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.03558,29.702625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.337">
+        <name>FOREMARK PERFORMANCE CHEMICALS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 13,222 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.033399,29.6985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.338">
+        <name>DOOSAN TURBOMACHINERY SERVICES</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 250 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.045257,29.68565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.339">
+        <name>GAS INNOVATIONS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,150 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.033127,29.68874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.340">
+        <name>KURARAY AMERICA INC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 128,876 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.035838,29.702624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.341">
+        <name>NOVVI LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 8 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.089918,29.734186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.342">
+        <name>AIRGAS SPECIALTY PRODUCTS - LAPORTE TX</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 298 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.05386,29.651428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.343">
+        <name>AIR LIQUIDE LA PORTE SMR</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,662 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.053479,29.651434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.344">
+        <name>SONGWON INTERNATIONAL AMERICAS INC. - LA PORTE</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 483 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.088473,29.701152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.345">
+        <name>SOUTH COAST TERMINALS LLC STRANG ROAD FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 12,392 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.059928,29.70221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.346">
+        <name>EAST STORAGE / SPLITTER III FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 58,540 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.968672,29.729958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.347">
+        <name>TARGA MONT BELVIEU COMPLEX</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 233,378 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.894848,29.83696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.348">
+        <name>EXXONMOBIL MONT BELVIEU PLASTICS PLANT</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 138,624 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.920141,29.872696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.349">
+        <name>ENTERPRISE PRODUCTS OPERATING LLC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 357,901 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.908899,29.856952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.350">
+        <name>FORUM ENERGY TECHNOLOGIES (DAVIS-LYNCH LLC)</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.320893,29.574736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.351">
+        <name>THIRD COAST TERMINALS PEARLAND</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,695 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.294761,29.574473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.352">
+        <name>GEON PERFORMANCE SOLUTIONS</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 45 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.031602,29.599175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.353">
+        <name>MARTIN ASPHALT-SOUTH HOUSTON</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 8 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.233528,29.662168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.354">
+        <name><![CDATA[HOUSTON PLATING & COATINGS LLC]]></name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 2,500 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.247826,29.659563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.355">
+        <name>SOLVCHEM INC. - PEARLAND FACILITY</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 4,396 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.294871,29.573299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.356">
+        <name>MONT BELVIEU FRACTIONATOR</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 356 lb/yr</description>
+        <Point>
+          <coordinates>
+            -94.912197,29.855249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.357">
+        <name>NIPPON SHOKUBAI AMERICA INDUSTRIES</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 1,680 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.0216,29.603443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.358">
+        <name>HEIDELBERG MATERIALS - ARCOLA RMC</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.463374,29.501839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.359">
+        <name>MCIP INDUSTRIAL ENTERPRISES</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 753 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.292928,29.590978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.360">
+        <name>TEXAS HONING INC - PEARLAND</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 16 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.29496,29.57888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.361">
+        <name>UNIVAR SOLUTIONS USA</name>
+        <description>Houston (Harris Co.); mean on-site air releases 2022-2024: 498 lb/yr</description>
+        <Point>
+          <coordinates>
+            -95.30123,29.637817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.362">
+        <name>BOARDWALK LOUISIANA MIDSTREAM LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 60,523 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.308628,30.322447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.363">
+        <name>KOCH METHANOL ST. JAMES LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 136,145 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.869088,29.97579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.364">
+        <name>CMP COATINGS INC.</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 14,626 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.025695,29.851639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.365">
+        <name>CHEVRON ORONITE CO LLC - OAK POINT PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 19,956 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.012962,29.80811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.366">
+        <name>HARVEST LOUISIANA TERMINALS LLC - ALLIANCE TERMINAL</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 158,162 lb/yr</description>
+        <Point>
+          <coordinates>
+            -89.979869,29.674987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.367">
+        <name><![CDATA[IWS GAS & SUPPLY]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 10 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.057279,29.834303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.368">
+        <name>BARRIERE CONSTRUCTION CO LLC - BOUTTE ASPHALT PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 569 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.414409,29.919895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.369">
+        <name><![CDATA[C&C MARINE & REPAIR L.L.C.]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 53,965 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.015617,29.866752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.370">
+        <name>REDGUARD LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 76 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.038574,29.843376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.371">
+        <name>JOHN W STONE OIL DISTRIBUTORS LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.046652,29.837986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.372">
+        <name>SUN DRILLING PRODUCTS CORP</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 3,875 lb/yr</description>
+        <Point>
+          <coordinates>
+            -89.982241,29.859751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.373">
+        <name>RAIN CII CARBON LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 13,552 lb/yr</description>
+        <Point>
+          <coordinates>
+            -89.975726,29.9382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.374">
+        <name>BUNGE CHEVRON AG RENEWABLES LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 520,578 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.349558,29.939529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.375">
+        <name>VALERO REFINING - NEW ORLEANS LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 566,680 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.395209,29.985482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.376">
+        <name>ENERGY TRANSFER GEISMAR OLEFINS LLC - CHALMETTE GAS PROCESSI</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 5,794 lb/yr</description>
+        <Point>
+          <coordinates>
+            -89.970628,29.928336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.377">
+        <name>MARATHON PETROLEUM CO LP</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 488,329 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.5971,30.076183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.378">
+        <name>NALCO CO</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 1,337 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.620161,30.037686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.379">
+        <name>PINNACLE POLYMERS</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 88,906 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.61796,30.057333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.380">
+        <name>STOCKHAUSEN SUPERABSORBER LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 5,328 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.591898,30.05375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.381">
+        <name>RAIN CII CARBON LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 7,858 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.681491,30.046509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.382">
+        <name>ATLANTIC ALUMINA GRAMERCY OPERATIONS</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 725 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.666332,30.073909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.383">
+        <name>OCCIDENTAL CHEMICAL CORP</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 78 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.455132,29.98449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.384">
+        <name>KOCH FERTILIZER LLC - TAFT TERMINAL</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 6,043 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.455132,29.98449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.385">
+        <name>ST CHARLES OPERATIONS (TAFT/STAR) UNION CARBIDE CORP</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 281,760 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.455906,29.981746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.386">
+        <name><![CDATA[LINDE GAS & EQUIPMENT]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 15,794 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.454956,29.984602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.387">
+        <name>GALATA CHEMICALS LLC - GALATA TAFT FACILITY</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 8,042 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.456551,29.98008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.388">
+        <name>BOLLINGER QUICK REPAIR LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 13,245 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.083176,29.903939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.389">
+        <name><![CDATA[FMT SHIPYARD & REPAIR LLC]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 3,936 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.062404,29.856493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.390">
+        <name>JOHN W STONE OIL DISTRIBUTOR</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 339 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.058956,29.922579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.391">
+        <name>ARKEMA COATING RESINS</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2,272 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.455906,29.981746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.392">
+        <name><![CDATA[AIR PRODUCTS & CHEMICALS INC - GARYVILLE SMR]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 26,509 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.5971,30.076183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.393">
+        <name>SHELL KENNER TERMINAL</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 4,858 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.269845,29.987995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.394">
+        <name>DUPONT PONTCHARTRAIN WORKS</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 80,859 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.483471,30.064276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.395">
+        <name>DENKA PERFORMANCE ELASTOMER LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 65,715 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.483518,30.064246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.396">
+        <name>OCCIDENTAL CHEMICAL CORP LULING</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 113,871 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.346844,29.930482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.397">
+        <name>BAYER CROPSCIENCE LP</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 39,382 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.346844,29.930482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.398">
+        <name>VALERO REFINING - MERAUX LLC MERAUX REFINERY</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 57,804 lb/yr</description>
+        <Point>
+          <coordinates>
+            -89.944819,29.930424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.399">
+        <name>RAIN CII CARBON LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 53,396 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.393979,30.002169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.400">
+        <name>SHAC CATALYST PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2,167 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.42783,29.998773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.401">
+        <name>ENTERPRISE GAS PROC LLC/NORCO FRACTIONATOR</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 8,237 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.38966,30.002824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.402">
+        <name>SHELL NORCO CHEMICAL PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2,257,764 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.410125,29.995675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.403">
+        <name>SHELL NORCO CHEMICAL PLANT WEST SITE</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 18,730 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.42783,29.998773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.404">
+        <name>DIAMOND GREEN DIESEL LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 1,717 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.379241,29.994834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.405">
+        <name>HEXION LULING FACILITY</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 15,046 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.35046,29.917059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.406">
+        <name>VERTEX REFINING LA LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2,363 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.101995,29.90526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.407">
+        <name>MT. AIRY TERMINAL LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 7,444 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.652256,30.056043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.408">
+        <name>LINDE ST CHARLES FACILITY</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 26,197 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.410999,30.006327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.409">
+        <name><![CDATA[AIR PRODUCTS & CHEMICALS INC LULING SMR]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 83 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.346844,29.930482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.410">
+        <name><![CDATA[AIR PRODUCTS & CHEMCIALS INC  NORCO SMR]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 30 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.379154,29.99477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.411">
+        <name>CLARIANT CORPORATION - RESERVE SITE</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 5,038 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.572047,30.071644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.412">
+        <name>PVS DX INC.</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 118 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.5645,30.073567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.413">
+        <name>EVONIK CORP</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 5,262 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.578309,30.069244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.414">
+        <name>AMERICAS STYRENICS LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 124,126 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.913478,30.080775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.415">
+        <name>DISCOVERY PRODUCER SERVICES: PARADIS FRACTIONATOR</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 4,091 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.453697,29.859949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.416">
+        <name>VALERO DONALDSONVILLE ASPHALT TERMINAL</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 54 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.917792,30.098748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.417">
+        <name>ROEHM AMERICA LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 18,715 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.269655,29.964371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.418">
+        <name>GOLD BOND BUILDING PRODUCTS - WESTWEGO</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.143154,29.916958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.419">
+        <name>CORNERSTONE CHEMICAL CO LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 254,200 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.269655,29.964371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.420">
+        <name>CF INDUSTRIES EAST POINT LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 236,772 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.269655,29.964371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.421">
+        <name>NINEMILE POINT PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 133,507 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.145271,29.946941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.422">
+        <name>U.S. GYPSUM CO</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 3 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.024536,30.022452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.423">
+        <name><![CDATA[AIR PRODUCTS & CHEMICALS INC ( NEW ORLEANS LA FACILITY)]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 5,582 lb/yr</description>
+        <Point>
+          <coordinates>
+            -89.896414,30.018047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.424">
+        <name>FIVE STAR PRODUCTS INC.</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 327 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.192023,29.943094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.425">
+        <name>QUIKRETE - NEW ORLEANS LA PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.191126,29.941464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.426">
+        <name>US NAVY NAVAL AIR STATION JOINT RESERVE BASE NEW ORLEANS</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 213 lb/yr</description>
+        <Point>
+          <coordinates>
+            -89.98529,29.855282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.427">
+        <name>CHALMETTE REFINING LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 379,714 lb/yr</description>
+        <Point>
+          <coordinates>
+            -89.969837,29.938595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.428">
+        <name>ENTERPRISE PRODUCTS OPERATING</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 6,339 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.107536,30.008028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.429">
+        <name>CF INDUSTRIES NITROGEN LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 8,032,846 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.966771,30.084493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.430">
+        <name>MOSAIC PHOSPHATES CO FAUSTINA PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 395,410 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.913089,30.082628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.431">
+        <name>SUN COAST RESOURCES LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.934536,30.093909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.432">
+        <name>THE DOW CHEMICAL CO GRAND BAYOU OPERATIONS</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 381 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.061837,30.001647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.433">
+        <name>ADDIS CARBON BLACK PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 137,687 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.278961,30.330355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.434">
+        <name>SHINTECH LOUISIANA LLC - ADDIS PLANT A</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 30,190 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.25643,30.331448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.435">
+        <name>COS-MAR CO</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 171,913 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.06817,30.219165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.436">
+        <name><![CDATA[TOTALENERGIES PETROCHEMICALS & REFINING USA INC CARVILLE POL]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 23,398 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.072326,30.219478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.437">
+        <name>OCCIDENTAL CHEMICAL HOLDING CORP</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 12,722 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.829616,30.055668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.438">
+        <name><![CDATA[AIR PRODUCTS & CHEMICALS INC. - CONVENT SMR]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 1,603 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.871578,30.111309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.439">
+        <name>CONVENT REFINERY</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 19,595 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.904621,30.099343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.440">
+        <name>NEXPERA BURNSIDE FACILITY</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 8,794 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.914828,30.126599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.441">
+        <name>AURORIUM DENHAM SPRINGS LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2,793 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.926068,30.487504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.442">
+        <name>MILLENNIUM GALVANIZING LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 49 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.875076,30.09533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.443">
+        <name>NUCOR STEEL LOUISIANA LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 31,088 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.818746,30.073421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.444">
+        <name>HEXION INC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 57,537 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.010018,30.215975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.445">
+        <name>WESTLAKE VINYLS CO</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 156,632 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.002539,30.215843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.446">
+        <name>BASF CORP</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 383,157 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.014521,30.191262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.447">
+        <name>HONEYWELL INTERNATIONAL INC GEISMAR PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 67,267 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.057633,30.222843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.448">
+        <name>LINDE GEISMAR FACILITY</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 50,546 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.017343,30.196368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.449">
+        <name>NOVA CHEMICALS OLEFINS LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 102,932 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.052524,30.236389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.450">
+        <name>LION COPOLYMER GEISMAR LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 1,020,152 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.002017,30.215393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.451">
+        <name>RUBICON LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 220,490 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.01735,30.196382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.452">
+        <name>PCS NITROGEN FERTILIZER LP</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 730,230 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.050516,30.241893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.453">
+        <name>BASF NORTH GEISMAR SITE</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 6,994 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.994879,30.210506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.454">
+        <name>OCCIDENTAL CHEMICAL HOLDING CORP - GEISMAR PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 117,016 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.968443,30.196218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.455">
+        <name>UNIVAR SOLUTIONS GEISMAR GE</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 618 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.003007,30.239257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.456">
+        <name>SHELL CHEMICAL LP</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 187,978 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.007564,30.182205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.457">
+        <name>REG GEISMAR LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2,214 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.002032,30.215406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.458">
+        <name>GEISMAR FRACTINATION PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 61,066 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.044617,30.215685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.459">
+        <name>GEISMAR FABRICATION FACILITY</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 45 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.997175,30.211583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.460">
+        <name>METHANEX USA SERVICES LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 1,179,803 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.02101,30.205692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.461">
+        <name>RIVERSIDE FRACTIONATION PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 11,354 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.043781,30.215225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.462">
+        <name>TEBONE FRACTIONATION PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2,212 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.044462,30.2156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.463">
+        <name>ALON REFINING KROTZ SPRINGS INC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 246,973 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.762654,30.565591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.464">
+        <name>SHINTECH PLAQUEMINE PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 372,850 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.17248,30.273408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.465">
+        <name>U.S. DOE BAYOU CHOCTAW SPR SITE</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 10 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.308628,30.322447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.466">
+        <name><![CDATA[WESTLAKE CHEMICALS & VINYLS LLC]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 266,250 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.180275,30.273136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.467">
+        <name>INEOS OXIDE A DIV OF INEOS AMERICAS LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 14,567 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.252614,30.322917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.468">
+        <name>THE DOW CHEMICAL CO - LOUISIANA OPERATIONS</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 1,853,761 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.252614,30.322917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.469">
+        <name>TURNER INDUSTRIES GROUP LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 21,200 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.217041,30.424809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.470">
+        <name>ENTERPRISE PRODUCTS OPERATING LLC BATON ROUGE FRACTIONATOR</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 39,790 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.201827,30.479656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.471">
+        <name>PLACID REFINING CO LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 68,808 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.211246,30.474574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.472">
+        <name>NALCO CO</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 15 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.237073,30.419144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.473">
+        <name>AZZ GALVANIZING - LOUISIANA LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 300 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.222481,30.496776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.474">
+        <name>EXXONMOBIL ANCHORAGE TANK FARM</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2,939 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.221133,30.475119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.475">
+        <name>BLUE CUBE OPERATIONS LLC - PLAQUEMINE SITE</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 43,852 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.252614,30.322917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.476">
+        <name><![CDATA[SHELL CATALYST & TECHNOLOGIES]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 23,309 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.214476,30.494585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.477">
+        <name>PLAQUEMINE METHOCEL</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 13,159 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.260177,30.266143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.478">
+        <name>TSRC SPECIALTY MATERIALS LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 314,223 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.252614,30.322917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.479">
+        <name>FLOPAM INC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 3,814,604 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.147496,30.270966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.480">
+        <name>ENLINK PROCESSING SERVICES LLC - PLAQUEMINE NGL FRACTIONATIO</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2,816 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.240111,30.235158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.481">
+        <name>ENLINK LIG LIQUIDS LLC - PLAQUEMINE GAS PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 3,635 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.240077,30.235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.482">
+        <name>SE TYLOSE LOUISIANA LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 6,018 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.17248,30.273408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.483">
+        <name>AMLON PORT ALLEN LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.234555,30.435133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.484">
+        <name>HOOD CONTAINER OF LOUISIANA LLC - ST FRANCISVILLE MILL</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 493,975 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.31399,30.710654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.485">
+        <name>BCP INGREDIENTS INC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 3,916 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.088441,30.251542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.486">
+        <name>SYNGENTA CROP PROTECTION LLC SAINT GABRIEL FACILITY</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 205,209 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.103368,30.248838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.487">
+        <name>NACHURS ALPINE SOLUTIONS</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 825 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.084554,30.244028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.488">
+        <name>MEXICHEM FLUOR INC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2,933 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.09865,30.235119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.489">
+        <name>BRENNTAG SOUTHWEST INC ST GABRIEL</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 1,488 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.072475,30.260185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.490">
+        <name>DELTA COS GROUP ST GABRIEL</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 42 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.084128,30.250438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.491">
+        <name>THORPE PLANT SERVICES INC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 1,607 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.072196,30.256277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.492">
+        <name>TAMINCO US LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 11,058 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.089887,30.251913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.493">
+        <name>PIONEER AMERICAS LLC (DBA OLIN CHLOR ALKALI PRODUCTS)</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 92 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.108671,30.241624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.494">
+        <name>GEORGIA-PACIFIC PORT HUDSON LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 6 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.276119,30.646866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.495">
+        <name>MOSAIC FERTILIZER LLC UNCLE SAM PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 246,152 lb/yr</description>
+        <Point>
+          <coordinates>
+            -90.832795,30.03806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.496">
+        <name>SOUTH ATLANTIC GALVANIZING</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 2,968 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.25116,30.642597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.497">
+        <name>PORT HUDSON TERMINAL</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 898 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.269951,30.655122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.498">
+        <name>FORMOSA PLASTICS CORP LOUISIANA</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 183,429 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.185503,30.498083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.499">
+        <name>ALBEMARLE CORP</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 9,295 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.185503,30.498083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.500">
+        <name>HONEYWELL INTERNATIONAL INC-BATON ROUGE PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 231,543 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.183078,30.474339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.501">
+        <name>UOP LLC BATON ROUGE PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 5,734 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.191116,30.507075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.502">
+        <name>EXXONMOBIL BATON ROUGE REFINERY (PART)</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 1,132,055 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.169178,30.485824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.503">
+        <name>EXXONMOBIL BATON ROUGE CHEMICAL PLANT (PART)</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 1,413,988 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.169718,30.494559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.504">
+        <name>STUPP COATINGS LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.184404,30.563466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.505">
+        <name>OXBOW CALCINING LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 71,559 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.238586,30.580321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.506">
+        <name>DELTECH MONOMERS OPCO LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 34,737 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.198595,30.553128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.507">
+        <name>EXXONMOBIL CHEMICAL CO BATON ROUGE POLYOLEFINS PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 58,609 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.204305,30.563454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.508">
+        <name>EXXON MOBIL CORP - BATON ROUGE PLASTICS PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 201,277 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.174836,30.553539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.509">
+        <name>EXXON MOBIL CORP - BATON ROUGE RESIN FINISHING PLANT</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 4,019 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.198339,30.553358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.510">
+        <name>BEST BLOCK - SOUTHLAND BLOCK</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 0 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.140879,30.470625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.511">
+        <name>BARRIERE CONSTRUCTION CO LLC - BATON ROUGE ASPHALT PLA</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 363 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.202379,30.55979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.512">
+        <name>ECO-SERVICES OPERATIONS</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 27,982 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.187702,30.507857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.513">
+        <name>AIR PRODUCTS-BATON ROUGE SMR</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 14,443 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.149453,30.491011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.514">
+        <name><![CDATA[W. R. GRACE & CO - CONN]]></name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 11,301 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.149453,30.491011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.515">
+        <name>FUTURE PIPE INDUSTRIES</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 1,626 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.047003,30.35596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.516">
+        <name>EXXONMOBIL BATON ROUGE CHEMICAL PLANT NORTH</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 79 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.172362,30.504786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.517">
+        <name>SOLVAY USA LLC</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 16,340 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.188115,30.507843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="tri_facilities.518">
+        <name>STUPP CORP</name>
+        <description>Louisiana corridor; mean on-site air releases 2022-2024: 1 lb/yr</description>
+        <Point>
+          <coordinates>
+            -91.176362,30.560672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
